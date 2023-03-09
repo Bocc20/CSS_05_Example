@@ -6,7 +6,7 @@
           "description": "Description of the task 1",
           "location": "Valletta",
           "date": "1st of Jan",
-          "time": "12:00",
+          "time": "12.00",
         },
         {
           "id": 2,
@@ -14,7 +14,7 @@
           "description": "Description of the task 2",
           "location": "Valletta",
           "date": "1st of Jan",
-          "time": "12:00",
+          "time": "12.00",
         },
         {
           "id": 3,
@@ -22,7 +22,7 @@
           "description": "Description of the task 3",
           "location": "Valletta",
           "date": "1st of Jan",
-          "time": "12:00",
+          "time": "12.00",
         },
       ]
 }
